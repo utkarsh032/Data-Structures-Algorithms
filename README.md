@@ -14,34 +14,6 @@ This repository covers the following areas:
 - **Sorting Algorithms**: Quick sort, merge sort, bubble sort, and their complexities.
 - **Dynamic Programming**: Optimization problems, memoization, and tabulation techniques.
 
-## 🗂️ Repository Structure
-
-The repository is organized into folders based on different data structures and algorithms:
-
-
-Data-Structures-Algorithms/
-├── README.md
-├── Arrays/
-│   ├── README.md
-│   ├── problem1.py
-│   └── problem2.cpp
-├── Linked_Lists/
-│   ├── README.md
-│   ├── problem1.py
-├── Stacks_Queues/
-│   ├── README.md
-│   ├── problem1.js
-├── Trees/
-│   ├── README.md
-│   ├── problem1.cpp
-├── Graphs/
-│   ├── README.md
-├── Sorting_Algorithms/
-│   ├── README.md
-├── Dynamic_Programming/
-│   ├── README.md
-
-
 
 ## 💡 How to Use
 

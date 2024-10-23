@@ -21,14 +21,15 @@ For each test case, print the answer: the number of lifeboats required.
 
 ### Example
 
-#### Sample Input:
+#### **Sample Input**
 2
 4 5
 3 5 3 4
 4 3
 1 2 2 3
 
-#### Sample Output:
+#### **Sample Output**
+
 4
 3
 
@@ -56,7 +57,6 @@ For each test case, print the answer: the number of lifeboats required.
 ---
 
 ## ⏳ Complexity
-
 - **Time complexity**:  
   Sorting the list of weights takes `O(n log n)`, and the two-pointer approach runs in `O(n)`. Hence, the total time complexity for each test case is `O(n log n)`.
 

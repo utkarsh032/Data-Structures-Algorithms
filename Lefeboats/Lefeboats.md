@@ -22,15 +22,15 @@ For each test case, print the answer: the number of lifeboats required.
 ### Example
 
 #### **Sample Input**
-  2
-  4 5
-  3 5 3 4
-  4 3
-  1 2 2 3
+  - 2
+  - 4 5
+  - 3 5 3 4
+  - 4 3
+  - 1 2 2 3
 
 #### **Sample Output**
- 4
- 3
+  - 4
+  - 3
 
 
 

@@ -38,9 +38,8 @@ For each test case, print the k-beauty of the number.
   - 430043 2
   
 #### **Sample Output**
-  - 5 3
-  - 2 1
-  - 3 1
+  - 2
+  - 2
 
 ## 💡 Approach
 
